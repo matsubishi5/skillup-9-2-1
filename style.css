@@ -1,9 +1,9 @@
 .flex {
 	background-color: #00c7ce;
-	height: 50vh;
+	height: 100vh;
 	padding: 10px;
 	display: flex;
-	flex-direction: column-reverse;
+	flex-wrap: wrap;
 }
 
 .flex > div {
